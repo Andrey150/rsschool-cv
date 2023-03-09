@@ -1,0 +1,24 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><<<<<<< HEAD\r\nSomebody once told me the world is gonna roll me\r\nI ain't the sharpest tool in the shed\r\nShe was looking kind of dumb with her finger and her thumb\r\nIn the shape of an \"L\" on her forehead\r\n=======\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n  <meta charset=\"UTF-8\">\r\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n  <title>Document</title>\r\n</head>\r\n<body>\r\n  \r\n</body>\r\n</html>\r\n>>>>>>> e68c191c8c66db85391807e0a2e593938e41c2eb\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(revision 1f9524a4156977a939d2d2bcff49d8e70411c7c2)
++++ index.html	(date 1678354123970)
+@@ -1,9 +1,3 @@
+-<<<<<<< HEAD
+-Somebody once told me the world is gonna roll me
+-I ain't the sharpest tool in the shed
+-She was looking kind of dumb with her finger and her thumb
+-In the shape of an "L" on her forehead
+-=======
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+@@ -16,4 +10,3 @@
+   
+ </body>
+ </html>
+->>>>>>> e68c191c8c66db85391807e0a2e593938e41c2eb
